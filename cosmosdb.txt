@@ -1,0 +1,16 @@
+
+
+URI:
+https://nextgensolution1.documents.azure.com:443/
+
+Primary Key:
+Ml5KOwJ3n1h4nGGXCnHnIkg2zLtxiBvDAnWUaxXTQjO9OLVuwJqYgraXedRgWZ1x21YrEqTsdI7hACDbsdtODQ==
+
+Secondary Key:
+10edCmoKafNvL6NnzKpR5KOD3TVk1xEzlJYe4lQgcUMTtmQVVD0X9im9xn0U1nzktd8giKeEKWAlACDbeDkT6Q==
+
+Primary Connection string:
+AccountEndpoint=https://nextgensolution1.documents.azure.com:443/;AccountKey=Ml5KOwJ3n1h4nGGXCnHnIkg2zLtxiBvDAnWUaxXTQjO9OLVuwJqYgraXedRgWZ1x21YrEqTsdI7hACDbsdtODQ==;
+
+AccountEndpoint=https://nextgensolution1.documents.azure.com:443/;AccountKey=10edCmoKafNvL6NnzKpR5KOD3TVk1xEzlJYe4lQgcUMTtmQVVD0X9im9xn0U1nzktd8giKeEKWAlACDbeDkT6Q==;
+
